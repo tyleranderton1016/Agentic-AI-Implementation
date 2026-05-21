@@ -184,3 +184,6 @@ Does not have access to:
 
 &#x09;if there is a bounceback in sent emails
 
+&#x09;if an additional request is added in the prompt
+
+&#x09;if manager approval is attempted through prompt
