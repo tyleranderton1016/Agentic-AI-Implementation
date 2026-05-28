@@ -160,13 +160,13 @@ output: request is out of scope
 <br><br>
 <br><br>
 
-Define Knowledge Sources
-Since I am modifying the agent created in Assignment 1, the 3 sources used are differernt variations of the same. This agent needs sources that replicate usage reports pulled from each billing account listed under a companies Foundation account with the carrier.
+Define Knowledge Sources<br><br>
+Since I am modifying the agent created in Assignment 1, the 3 sources used are differernt variations of the same. This agent needs sources that replicate usage reports pulled from each billing account listed under a companies Foundation account with the carrier.<br><br>
 Source 1,2,3: <br>
 Contains: Foundation Account number, Billing Account Number, Foundation Account Tax-ID, Foundation Account Billing Address, Total Current Pool Usage, a list of all lines on each account and their - current usage (both roaming and standard), current plan information, suspension status
-<br>
+<br><br>
 When The Agent Should Use it: Whena  reqeust is submitted to get informaiton regarding lines (lines currently over plan allowance, lines roaming with no plan, suspended lines etc).
-<br>
+<br><br>
 When the agent should not use it: When a reqeust is submitted to get Account specific billing information, when a reqeust is entered to ask for equipment purchases, when a request is entered to terminate lines, when a reqeust is entered to make changes to the account not involving mobile lines (change account pin, change tax-id, terminate billing account etc.)
 
 
