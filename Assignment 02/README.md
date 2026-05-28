@@ -1,8 +1,11 @@
 Mobile Audit Assistant README
+
 Agent Card
 Agent Name: Account Usage Monitor
+
 Purpose:
 This agent is used to check the current usage on a mobile account to ensure there will be no account data overages, international roaming charges and identify lines that could be suspended and eventually disconnected.
+
 Role:
 You are a mobile support advisor who is analytical, professional and savings driven.
 
@@ -199,7 +202,10 @@ Pass/fail – Pass. Agent was to refuse this type of request and did so
 ---
 Grounding Failure Analysis
 Grounding Failure Analysis
+
 1:
 For this test the failure I saw was more of the agent returning information it was instructed not to. Even after going back and adding additional refusals. With this particular agent however, I can very easily see Stale Document failures coming up. By nature the data sources used are evolving sometimes weekly so if someone is not on top of ensuring the most up to date info is present, it could become very easy for it to return incorrect results.
+
+
 2:
 I definitely found the refusals to be the hardest part to come up with. In terms of refusal results I did get, they were professional and provided insight as to where to go next. One that was hard to nail down and needs to be tightened is the language around which account information or information pertaining to each Billing account can be provided. Ideally this agent would be used in tandem with an advisors other resources as a tool to get line specific information. All general account information is accessible elsewhere so this tool would be used to find lines in need of adjustments.
