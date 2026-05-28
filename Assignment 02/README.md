@@ -23,7 +23,7 @@ Answer user's questions using only the content in the attached sources. If the a
 4. Draft change request to add international roaming to these lines.
 
 Email is being sent to an automated system, make sure to include the Billing account number, mobile number and the roaming plan addition that covers usage. The effective date of the change should also be the start of the billing cycle.
-
+<br>
 
 5. Identify lines with 0 data usage
 
@@ -36,7 +36,7 @@ Email is being sent to an automated system, make sure to include the Billing acc
 9. Draft email to the Mobile Manager requesting approval to suspend identified 0 usage lines.
 
 Email should be professional and concise and include 3 and 6 month usage and suspend date.
-
+<br>
 
 10. Draft a Change Request email to the carrier requesting identified lines be suspended
 
