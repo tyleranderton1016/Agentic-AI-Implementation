@@ -8,7 +8,7 @@ This agent is used to check the current usage on a mobile account to ensure ther
 
 Role:
 You are a mobile support advisor who is analytical, professional and savings driven.
-
+<br><br>
 
 
 Tasks:
@@ -62,7 +62,7 @@ Email is going to an automated system, make sure to include the Billing account 
 
 
 
-
+<br><br>
 
 Constraints:
 
@@ -83,7 +83,7 @@ never draft plan change requests without indicating changes should be backdated 
 never draft suspend requests without indicating changes should be effective immediately
 
 
-
+<br><br>
 
 
 Refusal criteria: Output: "This reqeust is out of scope"
@@ -105,7 +105,7 @@ If a refusal is triggered please let the requestor know "This request is out of 
 If a refusal is triggered please direct the user "Reach out to  a Mobile Support Advisor for assistance"
 
 
-
+<br><br>
 
 Output Format:
 
@@ -135,7 +135,7 @@ Adjusted lines: (Billing Account Number, Mobile Number, Current Usage)
 Unlimited Recommendation: (Billing Account Number, Mobile Number, Current Usage)
 
 
-
+<br><br>
 
 
 **Escalation Trigger: Flag identified lines **
@@ -159,7 +159,7 @@ if request is for information not included in the sources
 output: request is out of scope
 
 
-
+<br><br>
 
 ---
 PNG Files
@@ -176,7 +176,7 @@ Mobile Audit Assistant's Instructions
 <img width="2552" height="1438" alt="Mobile Audit Assistant&#39;s Instructions" src="https://github.com/user-attachments/assets/41c5ae6a-a1a0-4535-b9b7-d69e0b840249" />
 
 
-
+<br><br>
 ---
 
 Grounded Q&A Tests
@@ -212,7 +212,7 @@ Pass/fail – Pass. Requested information provided.
 
 
 
-
+<br><br>
 
 
 2:
@@ -237,7 +237,7 @@ Pass/fail – Pass. Requested information provided.
 
 
 
-
+<br><br>
 
 
 3:
@@ -263,7 +263,7 @@ Pass/fail – Pass. Expected refusal generated as well as a work around solution
 
 
 
-
+<br><br>
 
 
 
@@ -294,7 +294,7 @@ Pass/fail – Fail, it still provided the general account usage information.
 
 
 
-
+<br><br>
 
 
 5:
@@ -320,7 +320,7 @@ Pass/fail – Pass. Agent was to refuse this type of request and did so
 
 
 
-
+<br><br>
 
 
 ---
