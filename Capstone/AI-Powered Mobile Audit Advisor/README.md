@@ -2,7 +2,7 @@ Written Brief
 <br>
 1. Activepieces + OpenRouter LLM<br>
 	free version<br>
-	I chose to work with Active pieces because after researching options that had not been used in class, this one looked promising at a free level as it supports AI-driven workflows with over 700 integrations. As an orchestration layer, it worked well with OpenRouter which gave me access to GPT-4o-mini without needing a paid OpenAI subscription.<br>
+	I chose to work with ActivePieces because after researching options that had not been used in class, this one looked promising at a free level as it supports AI-driven workflows with over 700 integrations. As an orchestration layer, it worked well with OpenRouter which gave me access to GPT-4o-mini without needing a paid OpenAI subscription.<br>
 <br>
 https://www.activepieces.com<br>
 https://openrouter.ai
