@@ -168,6 +168,21 @@ For each account:<br>
 
 10. Draft a change request email that will be sent to the carrier with documented recommendations.<br><br>
 
+Plan options that can be used for recommendations are:<br>
+
+1GB<br>
+3GB<br>
+5GB<br>
+7GB<br>
+10GB<br><br>
+Roaming:<br>
+100mb<br>
+250mb<br>
+500mb<br>
+1GB<br><br><br>
+
+
+
 **Constraints:**<br>
 
 never send plan updates without human approval<br>
