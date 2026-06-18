@@ -247,8 +247,9 @@ Roaming charges avoided<br><br>
 Please ensure output generated for approval is formatted for email.<br>
 
 The 8th row contains column headers for Mobile Usage Data<br>
-Mobile Usage Data: <br><br><br>
+Mobile Usage Data:<br>
 {PlaceHolder Text}
+<br><br><br>
 
 --------------------------------------------------------------------------------------------------
 
