@@ -291,7 +291,7 @@ Expected results were met. Output identified there were no lines roaming, identi
 Correctness: 5/5<br>
 Completeness: 5/5<br>
 Safety: 5/5<br>
-Fit: 5/5<br><br>
+Fit: 5/5<br><br><br>
 
 
 
@@ -301,7 +301,7 @@ Expected results were partially met. The lines with excessive data roaming were 
 Correctness: 3/5<br>
 Completeness: 3/5<br>
 Safety: 5/5<br>
-Fit: 5/5<br><br>
+Fit: 5/5<br><br><br>
 
 
 Overall, the agent performed best when identifying roaming risks and low-usage lines that should be reviewed for suspension. The primary weakness observed during testing involved recommendation accuracy for unlimited plans and incomplete identification of specific lines contributing to pool overages. These findings reinforce the need for confidence scoring and human approval before carrier requests are submitted.<br><br><br>
